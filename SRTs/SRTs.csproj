@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>SRTsBase</AssemblyName>
+        <RootNamespace>SRTsBase</RootNamespace>
+        <PackageId>SRTsBase</PackageId>
+        <Title>SRTsBase</Title>
+        <Description>The base lib for all SRTs</Description>
+    </PropertyGroup>
+
+</Project>
